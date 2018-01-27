@@ -26,5 +26,10 @@ Another dimension that can be used to differentiate the Statistical Learning met
 
 What is the best method to use though? Well, it depends on what you need! If you want to be able to *Interprete* the results, then you should go for a **parametric** method. On the other hand, if your goal is to have the highest *accuracy possible* and don't care about the *interpretability* of the model you should go for a **non parametric** method.
 
-
 But what is the difference between **Statistical Learning** and **Machine Learning**? 
+
+* The former is a subfield of **Statistics** and the latter of **Artificial Intelligence**
+* The former is focused on *interpretability*, *precision* and *uncertainty*, te latter is focused on *large scale* applications and *prediction accuracy*
+* However, the discrimination is getting more and more difficult since they are interacting.
+
+The goal of this repository is to go over the basic methods of Statistical Learning using Python and GoLang. The structure of  this series is based on the book ["An Introduction to Statistical Learning"](http://www-bcf.usc.edu/~gareth/ISL/index.html) it is highly recommended to go over it as long as ["The Elements of Statistical Learning"](https://web.stanford.edu/~hastie/Papers/ESLII.pdf). Both of them are increadible books. 
