@@ -20,7 +20,7 @@ Statistical Learning can be divided into **supervised learning** and **unsupervi
 
 Another dimension that can be used to differentiate the Statistical Learning methods, is whether they are paramentric or non parametric.
 
-* **Parametric** methods, are those that we have made an assumption on the formula (e.g Y = βο + β1 * Χ1 + β2 * Χ2) and then we train the parameters (βο, β1, β2) so that the formula fits the data. 
+* **Parametric** methods, are those that we have made an assumption on the formula (e.g $Y = β_{0} +β_{1}χ_{1} +β_{2}χ_{2}$) and then we train the parameters (βο, β1, β2) so that the formula fits the data. 
 
 * **Non Parametric** methods, we make no assumption of the formula of *f(X)*. Instead we approxiamte the *f(X)* that fit the data best. 
 
